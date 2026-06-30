@@ -1,0 +1,15 @@
+/**===================================================
+* This is a style template file for Theme Options Page
+* ================================================= */
+.options-page-header {
+    padding: 20px !important;
+    margin-bottom: 20px !important;
+    background: #222;
+    color: #fff;
+}
+.options-section {
+    background: crimson;
+}
+p.submit {
+    padding-left: 20px;
+}
